@@ -2,6 +2,7 @@ algoritmo "HoraDeAcordar"
 
 var
     olhos_abertos: logico
+    
     corpo_levantado: logico
 
 inicio
