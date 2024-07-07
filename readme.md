@@ -1,14 +1,11 @@
-Algoritimo passo a passo de acordar
-
-
-
-
-
 algoritmo "HoraDeAcordar"
+
 var
     olhos_abertos: logico
     corpo_levantado: logico
+
 inicio
+
     // Passo 1: Abrir os olhos
     olhos_abertos <- verdadeiro
 
