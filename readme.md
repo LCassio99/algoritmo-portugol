@@ -1,5 +1,9 @@
 Algoritimo passo a passo de acordar
 
+
+
+
+
 algoritmo "HoraDeAcordar"
 var
     olhos_abertos: logico
